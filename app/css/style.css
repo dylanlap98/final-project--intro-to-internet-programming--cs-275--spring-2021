@@ -1,6 +1,7 @@
-
 #diamond-container {
-  border-radius: 1px;
   border-style: solid;
   border-color: black;
+  border-width: 1px;
+  height: 100px;
+  width: 100px;
 }
